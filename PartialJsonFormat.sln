@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartialJsonFormat", "PartialJsonFormat\PartialJsonFormat.csproj", "{FEEBC662-A179-4487-9671-4254A78BE06F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartialJsonFormat.Tests", "PartialJsonFormat.Tests\PartialJsonFormat.Tests.csproj", "{33A69B14-C095-43AB-974E-E9DEEA147873}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEEBC662-A179-4487-9671-4254A78BE06F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEEBC662-A179-4487-9671-4254A78BE06F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEEBC662-A179-4487-9671-4254A78BE06F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEEBC662-A179-4487-9671-4254A78BE06F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33A69B14-C095-43AB-974E-E9DEEA147873}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33A69B14-C095-43AB-974E-E9DEEA147873}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33A69B14-C095-43AB-974E-E9DEEA147873}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33A69B14-C095-43AB-974E-E9DEEA147873}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6A7DC5C-EAA9-43D4-9C4D-4A18FF0A2B32}
+	EndGlobalSection
+EndGlobal
